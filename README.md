@@ -61,48 +61,48 @@ Op de hoofdpagina staan 3 bookmarks, deze laten de cijfers zijn over de jaren 20
 
 #### Pagina – Prijsontwikkeling
 
-**Visual 1:** Lijngrafiek, met de prijskoersen van BTC en ETH.
-**Visual 2:** Kolomdiagram, met de prijsontwikkeling in % van BTC/ETH, welke wordt berekend door een DAX-berekening.
-**ATB Bitcoin visuele kaart:** geeft de alltime high weer van Bitcoin op basis van geselecteerde periode.
-**Filters:** hiermee kan de gebruiker selecteren op basis van Jaar-Kwartaal-Maand.
-**Paginabuttons:** hiermee kan de gebruikers navigeren tussen de pagina’s van het dashboard.
+**Visual 1:** Lijngrafiek, met de prijskoersen van BTC en ETH.<br>
+**Visual 2:** Kolomdiagram, met de prijsontwikkeling in % van BTC/ETH, welke wordt berekend door een DAX-berekening.<br>
+**ATB Bitcoin visuele kaart:** geeft de alltime high weer van Bitcoin op basis van geselecteerde periode.<br>
+**Filters:** hiermee kan de gebruiker selecteren op basis van Jaar-Kwartaal-Maand.<br>
+**Paginabuttons:** hiermee kan de gebruikers navigeren tussen de pagina’s van het dashboard.<br>
 
 #### Pagina – Handelsvolume
 
-**Visual 3.1:** Spreidingsdiagram, geeft de relatie weer tussen prijs en volume voor BTC.
-**Visual 3.2:** Spreidingsdiagram, geeft de relatie weer tussen prijs en volume voor ETH.
-**Filters:** hiermee kan de gebruiker selecteren op basis van Jaar-Kwartaal-Maand.
-**Paginabuttons:** hiermee kan de gebruikers navigeren tussen de pagina’s van het dashboard.
+**Visual 3.1:** Spreidingsdiagram, geeft de relatie weer tussen prijs en volume voor BTC.<br>
+**Visual 3.2:** Spreidingsdiagram, geeft de relatie weer tussen prijs en volume voor ETH.<br>
+**Filters:** hiermee kan de gebruiker selecteren op basis van Jaar-Kwartaal-Maand.<br>
+**Paginabuttons:** hiermee kan de gebruikers navigeren tussen de pagina’s van het dashboard.<br>
 
 #### Pagina – Seizoenspatronen
 
-**Visual 4.1:** Lijngrafiek, met de gemiddelde prijs van ETH/BTC per maand/seizoen en een MIN en MAX arcering om duidelijk weer te geven in welk seizoenen de gemiddelde High/Low waardes plaatsvinden.
-**Visual 4.2:** Heatmap matrix ETH, geeft met kleurovergangen (d.m.v. van DAX) aan of een prijs laag-gemiddeld-hoog is. Hierdoor kan er per seizoen goed gekeken worden naar de ontwikkeling van de prijs.
-**Visual 4.3:** Heatmap matrix BTC, geeft met kleurovergangen (d.m.v. van DAX) aan of een prijs laag-gemiddeld-hoog is. Hierdoor kan er per seizoen goed gekeken worden naar de ontwikkeling van de prijs.
-**Filters:** hiermee kan de gebruiker selecteren op basis van Jaar-Kwartaal-Maand.
-**Paginabuttons:** hiermee kan de gebruikers navigeren tussen de pagina’s van het dashboard.
+**Visual 4.1:** Lijngrafiek, met de gemiddelde prijs van ETH/BTC per maand/seizoen en een MIN en MAX arcering om duidelijk weer te geven in welk seizoenen de gemiddelde High/Low waardes plaatsvinden.<br>
+**Visual 4.2:** Heatmap matrix ETH, geeft met kleurovergangen (d.m.v. van DAX) aan of een prijs laag-gemiddeld-hoog is. Hierdoor kan er per seizoen goed gekeken worden naar de ontwikkeling van de prijs.<br>
+**Visual 4.3:** Heatmap matrix BTC, geeft met kleurovergangen (d.m.v. van DAX) aan of een prijs laag-gemiddeld-hoog is. Hierdoor kan er per seizoen goed gekeken worden naar de ontwikkeling van de prijs.<br>
+**Filters:** hiermee kan de gebruiker selecteren op basis van Jaar-Kwartaal-Maand.<br>
+**Paginabuttons:** hiermee kan de gebruikers navigeren tussen de pagina’s van het dashboard.<br>
 
 #### Pagina – S\&P500 en Goud
 
-**Visual 5.1:** Lijngrafiek, geeft de koersen weer van S\&P500 en Bitcoin.
-**Visual 5.2:** Lijngrafiek, geeft de koersen weer van Goud en Bitcoin.
-**Visual 5.3:** Spreidingsdiagram, geeft de koersen weer van S\&P500 en Bitcoin en eventuele correlatie.
-**Visual 5.4:** Spreidingsdiagram, geeft de koersen weer van Goud en Bitcoin en eventuele correlatie.
-**Filters:** hiermee kan de gebruiker selecteren op basis van Jaar-Kwartaal-Maand.
-\*\*Paginabuttons: \*\*hiermee kan de gebruikers navigeren tussen de pagina’s van het dashboard.
+**Visual 5.1:** Lijngrafiek, geeft de koersen weer van S\&P500 en Bitcoin.<br>
+**Visual 5.2:** Lijngrafiek, geeft de koersen weer van Goud en Bitcoin.<br>
+**Visual 5.3:** Spreidingsdiagram, geeft de koersen weer van S\&P500 en Bitcoin en eventuele correlatie.<br>
+**Visual 5.4:** Spreidingsdiagram, geeft de koersen weer van Goud en Bitcoin en eventuele correlatie.<br>
+**Filters:** hiermee kan de gebruiker selecteren op basis van Jaar-Kwartaal-Maand.<br>
+\*\*Paginabuttons: \*\*hiermee kan de gebruikers navigeren tussen de pagina’s van het dashboard.<br>
 
 #### Pagina – Wereldwijde conflicten
 
-**Visual 6.1:** Lijngrafiek met kolomdiagram, geeft de BTC koers weer met conflicten toegevoegd als kolommen om meetpunten te creëren.
-**Visual 6.2:** Lijngrafiek met kolomdiagram, geeft de S\&P500 koers weer met conflicten toegevoegd als kolommen om meetpunten te creëren.
-**Visual 6.3:** Lijngrafiek met kolomdiagram, geeft de Goud koers weer met conflicten toegevoegd als kolommen om meetpunten te creëren.
-**Filters:** hiermee kan de gebruiker selecteren op basis van Jaar-Kwartaal-Maand.
-**Paginabuttons:** hiermee kan de gebruikers navigeren tussen de pagina’s van het dashboard.
+**Visual 6.1:** Lijngrafiek met kolomdiagram, geeft de BTC koers weer met conflicten toegevoegd als kolommen om meetpunten te creëren.<br>
+**Visual 6.2:** Lijngrafiek met kolomdiagram, geeft de S\&P500 koers weer met conflicten toegevoegd als kolommen om meetpunten te creëren.<br>
+**Visual 6.3:** Lijngrafiek met kolomdiagram, geeft de Goud koers weer met conflicten toegevoegd als kolommen om meetpunten te creëren.<br>
+**Filters:** hiermee kan de gebruiker selecteren op basis van Jaar-Kwartaal-Maand.<br>
+**Paginabuttons:** hiermee kan de gebruikers navigeren tussen de pagina’s van het dashboard.<br>
 
 #### Pagina - Analyse
 
-**Paginabuttons:** hiermee kan de gebruikers navigeren tussen de pagina’s van het dashboard.
-**Tekstvak:** hier staan de onderzoeksvragen beantwoord.
+**Paginabuttons:** hiermee kan de gebruikers navigeren tussen de pagina’s van het dashboard.<br>
+**Tekstvak:** hier staan de onderzoeksvragen beantwoord.<br>
 
 ## Datum Tabel
 
@@ -124,6 +124,7 @@ CALENDAR(DATE(2017,1,1), DATE(2025,12,31)),
 ## DAX
 
 Ik heb  DAX gebruikt om berekeningen uit te voeren. De toelichting van deze codes is beschreven in de DAX-code zelf in PBI.
+
 
 
 
