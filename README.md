@@ -1,6 +1,6 @@
 # Bitcoin analyse dashboard v1.0
 
-*In dit dashboard worden diverse analyses en trends weergegeven waarin Bitcoin centraal staat. Er wordt gekeken naar prijsontwikkeling, handelsvolume, seizoenspatronen en de invloed van geweldsconflicten in de wereld. Ook worden er vergelijkingen met Ethereum gedaan en anders koersen zoals: goud en de S\&P500 (Amerikaanse aandelen index) Voor elke onderwerp is er een aparte pagina met duidelijke visuals. Op de laatste pagina (Analyse) worden een 6-tal onderzoeksvragen over de Bitcoin behandeld.*
+*In dit dashboard worden diverse analyses en trends weergegeven waarin Bitcoin centraal staat. Er wordt gekeken naar prijsontwikkeling, handelsvolume, seizoenspatronen en de invloed van geweldsconflicten in de wereld. Ook worden er vergelijkingen met Ethereum gedaan en anders koersen zoals: goud en de S\&P500 (Amerikaanse aandelen index) Voor elk onderwerp is er een aparte pagina met duidelijke visuals. Op de laatste pagina (Analyse) worden een 6-tal onderzoeksvragen over de Bitcoin behandeld.*
 
 
 ![afbeelding](./pscreen1.jpg)
@@ -124,6 +124,7 @@ CALENDAR(DATE(2017,1,1), DATE(2025,12,31)),
 ## DAX
 
 Ik heb  DAX gebruikt om berekeningen uit te voeren. De toelichting van deze codes is beschreven in de DAX-code zelf in PBI.
+
 
 
 
